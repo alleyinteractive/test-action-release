@@ -21,3 +21,4 @@ phpunit.xml
 tests
 .phpcs
 Makefile
+_temp
